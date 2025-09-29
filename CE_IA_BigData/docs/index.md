@@ -24,9 +24,13 @@ hide:
     display: block !important;
     width: 200px !important;
     margin: 0 auto !important;
+    position: fixed;
+    bottom: 100px;
+    z-index: 1000;
+    left: 50%;
+    transform: translateX(-50%);
   }
 </style>
 
-![](img/fotoaula.jpg){ width=800px }
 
 [Comencem!](1.Presentacio.md){ .md-button .centrat }

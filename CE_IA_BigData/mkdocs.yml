@@ -6,7 +6,7 @@ nav:
   - "2. Correus, eines corporatives i comunicació": '2.Eines.md'
   - "3. Calendari Escolar": '3.Calendari.md'
   - "4. Convocatòries": '4.Convocatories.md'
-  - "5. Avaluació": '5.Avaluació'
+  - "5. Avaluació": '5.Avaluació.md'
   
 theme:
   name: 'material'
